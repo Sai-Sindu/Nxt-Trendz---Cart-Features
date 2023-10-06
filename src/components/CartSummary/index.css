@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.cart-summary-card {
+  align-self: flex-end;
+  font-family: 'Roboto';
+  width: 250px;
+}
+.order-total {
+  color: #616e7c;
+  font-size: 20px;
+}
+.total {
+  color: #171f46;
+  font-weight: 700;
+}
+.items-count {
+  color: #616e7c;
+  font-size: 15px;
+}
+.checkout-button {
+  background-color: #0b69ff;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  color: #ffffff;
+  padding: 5px;
+  align-self: center;
+  width: 100%;
+}
